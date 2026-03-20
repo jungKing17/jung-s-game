@@ -1,0 +1,5 @@
+{
+  "name": "Ninja Runner",
+  "description": "An endless runner game where a ninja jumps over obstacles.",
+  "requestFramePermissions": []
+}
